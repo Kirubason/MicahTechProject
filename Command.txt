@@ -1,0 +1,2 @@
+sc create ServiceName binPath= "path of the release exe" start=auto
+sc delete ServiceName
